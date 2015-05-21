@@ -10,6 +10,6 @@ twitter: n3rdgir1
 
 Participants:
 
-name:
-github:
-contact:
+name: Shawn Barnes
+github: 9kinds
+contact: 9_kinds
