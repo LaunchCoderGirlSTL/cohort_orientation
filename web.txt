@@ -13,3 +13,7 @@ Participants:
 name:ANGELA ENGLISH
 github:angelamiza
 contact:
+
+name: Shawn Barnes
+github: 9kinds
+twitter: 9_kinds
